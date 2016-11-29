@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-Cordova-FileLibraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CordovaAndroidFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "CordovaFileLibrary",
+	"type" : "normal" }
