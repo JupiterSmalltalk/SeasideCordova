@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-Cordova-Camera",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CordovaCamera",
+	"pools" : [
+		 ],
+	"super" : "CordovaPlugin",
+	"type" : "normal" }

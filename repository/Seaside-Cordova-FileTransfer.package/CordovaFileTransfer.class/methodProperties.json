@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"errorFunction" : "jupiter 05/01/2016 19:34",
+		"headersAt:" : "jupiter 05/16/2016 23:20",
+		"headersAt:put:" : "jupiter 05/16/2016 23:20",
+		"onError:" : "jupiter 05/01/2016 19:34",
+		"onSuccess:" : "jupiter 05/01/2016 19:32",
+		"paramsAt:" : "jupiter 05/16/2016 23:17",
+		"paramsAt:put:" : "jupiter 05/16/2016 23:18",
+		"source" : "jupiter 05/16/2016 15:03",
+		"source:" : "jupiter 05/16/2016 15:03",
+		"successFunction" : "jupiter 05/01/2016 19:33",
+		"target" : "jupiter 05/16/2016 15:03",
+		"target:" : "jupiter 05/16/2016 15:03" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-Cordova-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Cordova",
+	"pools" : [
+		 ],
+	"super" : "JSScript",
+	"type" : "normal" }

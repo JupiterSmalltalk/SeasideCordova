@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-Cordova-FileTransfer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CordovaFileUpload",
+	"pools" : [
+		 ],
+	"super" : "CordovaFileTransfer",
+	"type" : "normal" }

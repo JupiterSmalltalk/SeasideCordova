@@ -1,0 +1,16 @@
+{
+	"category" : "Seaside-Cordova-FileTransfer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"callbackUrl",
+		"source",
+		"target" ],
+	"name" : "CordovaFileTransfer",
+	"pools" : [
+		 ],
+	"super" : "CordovaPlugin",
+	"type" : "normal" }

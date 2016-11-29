@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-Cordova-PDFEditor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fileUrl" ],
+	"name" : "CordovaPDFEditor",
+	"pools" : [
+		 ],
+	"super" : "CordovaPlugin",
+	"type" : "normal" }

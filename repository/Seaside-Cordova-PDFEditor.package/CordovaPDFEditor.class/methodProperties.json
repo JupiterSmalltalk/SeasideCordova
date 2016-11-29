@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"askToSaveBeforeClose" : "jupiter 05/17/2016 02:45",
+		"autoSave" : "jupiter 05/17/2016 02:34",
+		"errorFunction" : "jupiter 05/16/2016 21:46",
+		"fileName:" : "jupiter 05/16/2016 20:56",
+		"fileNameToSave:" : "jupiter 05/15/2016 17:28",
+		"javascriptContentOn:" : "jupiter 05/17/2016 02:42",
+		"onError:" : "jupiter 05/16/2016 21:49",
+		"onSave:" : "jupiter 05/17/2016 02:34",
+		"onSuccess:" : "jupiter 05/16/2016 21:49",
+		"present" : "jupiter 05/16/2016 21:14",
+		"saveFunction" : "jupiter 05/17/2016 02:35",
+		"showSaveButton" : "jupiter 05/15/2016 17:27",
+		"successFunction" : "jupiter 05/16/2016 21:45",
+		"useDocumentsFolder" : "jupiter 05/17/2016 02:15" } }
