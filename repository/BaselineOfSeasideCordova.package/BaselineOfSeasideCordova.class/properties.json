@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSeasideCordova",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSeasideCordova",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
