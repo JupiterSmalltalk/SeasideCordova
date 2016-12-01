@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-Cordova-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CordovaExampleRoot",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

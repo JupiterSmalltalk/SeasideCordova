@@ -1,0 +1,3 @@
+seaside hooks
+canBeRoot
+  ^ true

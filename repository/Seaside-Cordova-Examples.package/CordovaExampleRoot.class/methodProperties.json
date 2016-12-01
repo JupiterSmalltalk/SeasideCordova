@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"canBeRoot" : "jupiter 12/01/2016 13:03",
+		"install" : "jupiter 12/01/2016 13:04",
+		"uninstall" : "jupiter 12/01/2016 13:05" },
+	"instance" : {
+		"renderContentOn:" : "jupiter 12/01/2016 13:13",
+		"updateRoot:" : "jupiter 12/01/2016 13:11" } }
