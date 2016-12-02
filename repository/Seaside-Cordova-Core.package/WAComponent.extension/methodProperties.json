@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"ifCordova:" : "jupiter 12/01/2016 16:58",
+		"ifNotCordova:" : "jupiter 12/01/2016 17:00",
+		"isCordova" : "jupiter 12/01/2016 16:58" } }
